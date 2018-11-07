@@ -1,2 +1,2 @@
-# php-arrays_lesson
-Lesson on PHP Arrays
+# php-arrays_challenge
+Challenge for PHP Arrays
